@@ -10,11 +10,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: black;
+    background-color: gray;
 }
 
 h1 {
-    color: white;
+    color: black;
+    font-size: 50px;
 }
 
 .emoji {
